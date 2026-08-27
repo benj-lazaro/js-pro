@@ -1,0 +1,43 @@
+Working With Plain Old JavaScript Objects
+-----------------------------------------
+- A brand-new empty JavaScript object can be created using:
+    - An Object Literal
+
+        const objectOne = { };
+
+    - The keyword "new" followed by a Class name 
+
+        const objectTwo = new <class_name>();
+
+
+- An object is a "key-value" data store
+    - A value is stored & retrieved using a key
+    - A key will ALWAYS turn into a string (i.e. stringified)
+
+
+- Accessing a value from an object using:
+    - Dot notation
+        - Easy & convenient to use
+
+        <object_name>.<key>
+
+    - Square bracket notation
+        - This syntax supports expression
+
+        <object_name>["<key>"];
+
+        const <constant_name> = <assigned_value>;
+        <object_name>[<constant_name>];
+
+
+- Object properties that does NOT exists
+    - ALWAYS evaluates to "undefined"
+
+
+- A function can be stored as a value in an object
+
+    <object_name>.<property_name> = function () { 
+        ...
+    };
+
+    

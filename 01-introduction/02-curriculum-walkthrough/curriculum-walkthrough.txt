@@ -1,0 +1,123 @@
+Curriculum Walkthrough
+----------------------
+- The course does NOT have a logical flow / structure
+    - NO linking each section to the section before & after it
+        - This is more of a "grab bag" or "pick & mix" kind of course
+    
+    - Treat this course like a candy store
+        - Go from one section to the next as you please
+        - NOT important to go through everything in order
+
+- Curriculum Outline
+    - Object-Oriented Programming
+        - Class Basics
+        - Constructors
+        - Inheritance
+        - Super()
+
+    - Newer OOP Features
+        - Getters / Setters
+        - Public / Private Fields
+        - Private Methods
+        - Static Initialization Blocks
+
+    - The Keyword "this"
+        - How "this" works
+        - call()
+        - apply()
+        - bind()
+        - Gotchas w/ "this"
+
+    - OOP Under The Hood
+        - Constructor functions
+        - The "new" keyword
+        - Prototypes
+        - Prototype Chain
+        - __proto__ vs __prototype__
+        - Prototype Methods
+
+    - Asynchronous JavaScript
+        - Callbacks
+        - Promises
+        - async / await
+        - async Design Patterns
+        - Promise.all
+        - Promise race
+        - Writing your own promises
+
+    - Latest JavaScript (2021/2022) Features
+        - Optional Chaining
+        - Nullish Coalescing
+        - New Methods
+        - New Assignment Operators
+        - Promise.any()
+        - Class Fields
+
+    - JavaScript The Tricky Parts
+        - Float Imprecision
+        - Generators
+        - Checking for NaN 
+        - BigInts
+        - Array.from()
+
+    - Scope & Closures
+        - Scope
+        - IIFE
+        - Hoisting
+        - Scope Chain
+        - Closures
+    
+    - Timers & Animation
+        - setTimeout
+        - setInternval
+        - requestAnimationFrame
+        - Debouncing
+        - Throttling
+
+    - Functional Programming
+        - Pure Functions
+        - Immutability
+        - Partial Application
+        - Composition
+        - Currying
+
+    - Making Requests w/ Fetch (Browser APIs)
+        - Error Handling
+        - Sending Headers
+        - POST Request
+        - Uploading Files
+
+    - Web Storage APIs
+        - Local Storage
+        - Session Storage
+        - Storage Events
+        - indexedDB
+
+    - More Browser APIs
+        - Geolocation API
+        - getUserMedia
+        - Requesting Webcam Video
+        - Requesting Mic Audio
+        - Intersection Observers
+    
+    - Even More Browser APIs
+        - Web Socket Basics
+        - Web Socket Events
+        - Building A Live Chat App
+        - Notification API
+
+    - OOP Principles (SOLID)
+        - Single Responsibility Principle
+        - Open / Close Principle
+        - Liskov Substitution Principle
+        - Interface Segregation Principle
+        - Dependency Inversion Principle
+        - Law of Demeter
+
+    - JavaScript Design Patterns
+        - Module Pattern
+        - Singleton Pattern 
+        - Observer Pattern
+        - Registry Pattern
+        - Mixin Pattern
+        - JS Proxy Objects

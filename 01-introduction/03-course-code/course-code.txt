@@ -1,0 +1,5 @@
+Getting The Course Code
+-----------------------
+- Each section comes w/ its own code attached to it
+    - Can be downloaded for each section or everything at once
+    

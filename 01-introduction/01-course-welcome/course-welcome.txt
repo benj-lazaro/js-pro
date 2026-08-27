@@ -1,0 +1,20 @@
+Course Welcome
+--------------
+- The main goal of this course
+    - To truly know JavaScript
+    - From being somewhat familiar to someone who knows JavaScript in & out
+
+
+- This roughly course covers things like:
+    - Closures
+    - Prototypes
+    - Static Initialization blocks
+    - Private Class fields
+    - Generators
+    - Different web storages
+    - Geolocation
+    - Notification
+    - Built-in JavaScript APIs
+        - Performance API
+        - Websocket API & more
+

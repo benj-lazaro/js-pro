@@ -1,0 +1,9 @@
+Developer Environment
+---------------------
+- VS Code is the code editor of choice for this course
+    - Download & install the "Live Server" extension by Ritwick Day
+    
+    - NOTE: Any preferred code editor will work
+
+
+- Chrome browser is the preferred web browser

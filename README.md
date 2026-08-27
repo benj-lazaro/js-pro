@@ -1,2 +1,2 @@
-# js-pro
-Releaning modern-day advanced JavaScript
+# JavaScript Pro Mastering Advanced Concepts & Techniques
+A documented relearning of advanced JavaScirpt
